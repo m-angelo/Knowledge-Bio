@@ -1,0 +1,3 @@
+title=Bio
+author=KnowEdge team
+orientation=landscape

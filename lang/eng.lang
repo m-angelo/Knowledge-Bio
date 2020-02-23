@@ -1,0 +1,84 @@
+{"Lang": "Language", 
+"Prg": "Progress", 
+"Stats": "Stats", 
+"Achv": "Achievements", 
+"Lvls": "Levels", 
+"Aws": "Awards",
+"Rank": "Rankings", 
+"Sett": "Settings",
+"PlayGames": "Play Games", 
+"Helix": "Helix:",
+"LVL": "Level", 
+"LVL1": "[b]Metabolic;-;Pathway[/b]", 
+"LVL1_0": "Glycolysis", 
+"LVL1_1": "Krebs;-;Cycle", 
+"LVL101": "[b]News[/b]",
+"LVL102": "[b]Learn[/b]",
+"Pts": "Points:", 
+"Cmp": "Completed:", 
+"Play": "Play",
+"Draw":"[b]Draw[/b]",
+"Place":"[b]Place[/b]",
+"Glucose":"[b]Glucose[/b]",
+"Win":"YOU WIN",
+"ScoreINF":"Points:",
+"HelixINF":"Helix;-;achieved:",
+"Paused":"Paused",
+"Exiter":"Exit",
+"Hinter":"Hint",
+"G1":"Glucose",
+"G2":"Glucose;-;-6-;-;phosphate",
+"G2T":"Hexokinate",
+
+"G3":"Fructose;-;-6-;-;phosphate",
+"G3T":"Glucose;-;-6-;-;phosphateisomerase",
+
+"G4":"Fructose;-;1,6;-;-bispho;-;sphate",
+"G4T":"Phospho;-;fructokinase-1",
+
+"G5":"Glycer;-;aldehyde;-;3-phos;-;phate",
+"G5T":"Aldolase",
+
+"G6":"1,3-Bi;-;sphospho;-;glycerate",
+"G6T":"Glyceraldehyde;-;-3-phosphate;-;dehydrogenase",
+
+"G7":"3-Phospho;-;glycerate",
+"G7T":"Phospho;-;glycerate;-;kinase",
+
+"G8":"2-Phospho;-;glycerate",
+"G8T":"Phospho;-;glycerate;-;mutase",
+
+"G9":"Phospho;-;enolpyruvate",
+"G9T":"Enolase",
+
+"G10":"Pyruvate",
+"G10T":"Pyruvate;-;kinase",
+
+"K1":"Acetyl-;-;-COA",
+"K1T":"Malate;-;dehydrogenase",
+
+"K2":"Citrate",
+"K2T":"Citrate;-;synthase",
+
+"K3":"Isocitrate",
+"K3T":"Aconitase",
+
+"K4":"α-Keto;-;glutarate",
+"K4T":"Isocitrate;-;dehydrogenase",
+
+"K5":"Succinyl;-;-CoA",
+"K5T":"α-Ketoglutarate;-;dehydrogenase",
+
+"K6":"Succinate",
+"K6T":"Succinyl-CoA;-;synthetase",
+
+"K7":"Fumarate ",
+"K7T":"Succinate;-;dehydro;-;genase",
+
+"K8":"L-Malate",
+"K8T":"Fumarase"
+
+
+}
+
+

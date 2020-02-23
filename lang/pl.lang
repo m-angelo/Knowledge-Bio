@@ -1,0 +1,163 @@
+{"Lang": "Język", 
+"Prg": "Postęp", 
+"Stats": "Statystyki", 
+"Achv": "Osiągnięcia", 
+"Lvls": "Poziomy", 
+"Aws": "Trofea",
+"Rank": "Ranking", 
+"timeout":"WIADOMOŚCI NIE MOGŁY\n ZOSTAĆ POBRANE\n SPRAWDŹ POŁĄCZENIE\n Z INTERNETEM",
+"nloader":"ZBIERANIE\n OSTATNICH\n WIADOMOŚCI",
+"Sett": "Ustawienia",
+"SFX":"SFX",
+"VIB":"Wibracje",
+"MUSIC":"Muzyka",
+"PlayGames": "Gry Play", 
+"Helix": "Zadania:",
+"LVL": "Poziom", 
+"LVL1": "[b]Szlak;-;Metaboliczny[/b]", 
+"LVL1_0": "Glikoliza", 
+"LVL1_1": "Cykl;-;Krebsa", 
+"LVL1_2": "Cykl;-;Mocznikowy", 
+"LVL1_3": "Cykl;-;Calvina", 
+"LVL99": "[b]Dzienne\nzadania[/b]",
+"LVL100": "[b]Losowe\nWyzwanie[/b]", 
+"LVL101": "[b]Wiadomości[/b]",
+"LVL102": "[b]Twój\nPantofelek[/b]",
+"Reward":"Helisy:",
+"Collected":"Zebrane!",
+"time":"Czas",
+"s":"Zdobyte punkty: ",
+"e":"Ukończone poziomy bez błędów: ",
+"t":"Ukończ poziom w sekund: ",
+"h":"Ukończone poziomy bez wskazówek: ",
+"a":"Ukończone poziomy z 3 medalami: ",
+"Pts": "Punkty:", 
+"Cmp": "Ukończono:", 
+"Play": "Graj",
+"Draw":"[b]Rysuj[/b]",
+"Place":"[b]Umieść[/b]",
+"Glucose":"[b]Glukoza[/b]",
+"Win":"WYGRAŁEŚ",
+"ScoreINF":"Wynik:",
+"HelixINF":"Zdobyte;-;Helisy:",
+"Paused":"Pauza",
+"Exiter":"Wyjdź",
+"Hinter":"Podpowiedź",
+"G1":"Glukoza",
+
+"G2":"Glukoza;-;-6-;-;fosforan",
+
+"G2T":"Heksokinat",
+
+
+"G3":"Fruktoza;-;-6-;-;fosforan",
+
+"G3T":"Glukoza;-;-6-;-;izomeraza;-;fosforanowa",
+
+
+"G4":"Fruktoza;-;1,6;-;-bisfo;-;sforan",
+
+"G4T":"Fosfo;-;fruktokinaza-1",
+
+
+"G5":"Aldehyd;-;glicerynowy;-;3-fos;-;foran",
+
+"G5T":"Aldolaza",
+
+
+"G6":"1,3-Bis;-;fosfo;-;glicerynian",
+
+"G6T":"Aldehyd;-;glicerynowy;-;-3-dehydrogenaza;-;fosforanowa",
+
+
+"G7":"3-Fosfo;-;glicerynian",
+
+"G7T":"Kinaza;-;fosfo;-;glicerynianowa",
+
+
+"G8":"2-Fosfo;-;glicerynian",
+
+"G8T":"Mutaza;-fosfo;-;glicerynianowa",
+
+
+"G9":"Pirofe;-;nolopirogronian",
+
+"G9T":"Enolaza",
+
+
+"G10":"Pirogronian",
+
+"G10T":"Kinaza;-;pirogronianowa",
+
+
+"K1":"Acetyl-;-;-COA",
+
+"K1T":"Dehydrogenaza ;-;jabłczanowa",
+
+
+"K2":"Cytrynian",
+
+"K2T":"Syntaza;-;cytrynianowa",
+
+
+"K3":"Izocytrynian",
+
+"K3T":"Akonitaza",
+
+
+"K4":"α-Keto;-;glutaran",
+
+"K4T":"Dehydrogenaza",
+
+
+"K5":"Sukcynyl;-;-CoA",
+
+"K5T":"α-Ketoglutaran;-;dehydrogenazy",
+
+
+"K6":"Bursztynian",
+
+"K6T":"Bursztynian-CoA;-;syntetazy",
+
+
+"K7":"Fumaran",
+
+"K7T":"Dehydzi;-;genaza;-;bursztynianowa",
+
+
+"K8":"L-Jabłczan",
+
+"K8T":"Fumaran",
+
+"M1":"L-ornithine",
+"M1T":"ornithyne transcarbomylase",
+
+"M2":"citrulline",
+"M2T":"argininosuccinate;-;synthetase",
+
+"M3": "argininosuccinate",
+"M3T":"arginino;-;succinatelyase",
+
+"M4":"L-arginine",
+"M4T":"arginase 1",
+
+"M5":"L-arginine",
+"M5T":"arginase 1",
+
+
+"C1":"3x Ribulose;-;1,5-bisphosphate",
+"C1T":"RuBisCo",
+"C2":"6x 3-Phosphoglyceric;-;acid",
+"C2T":"None",
+"C3":"6x 1,3-Bisphosphospho;-;glyceric acid",
+"C3T":"None",
+"C4":"6x Glyceraldehyde;-;3-phosphate (PGAL)",
+"C4T":"None",
+"C5":"3x Reaction;-;intermediate",
+"C5T":"None"
+
+
+
+}
+
+
